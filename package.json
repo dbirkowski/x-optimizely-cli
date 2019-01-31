@@ -1,6 +1,6 @@
 {
   "name": "@teamroboboogie/x-optimizely-cli",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "A command line application to create/update Optimizely X experiments via the API",
   "main": "index.js",
   "bin": {
@@ -18,7 +18,8 @@
   "author": "roboboogie",
   "contributors": [
     "Darius Capizzi",
-    "Jeremy Sell"
+    "Jeremy Sell",
+    "Damian Birkowski"
   ],
   "license": "Apache-2.0",
   "dependencies": {
